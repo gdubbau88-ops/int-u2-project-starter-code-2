@@ -11,6 +11,8 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 
 ## Project Task List
 Brainstorming
+class for paragraph text and for sections headers
+vw units for text 
 WireFrame 2
 Research
 ### Project Plan
