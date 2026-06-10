@@ -10,11 +10,17 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 2. Go to the `<title>` tag and change it to your name and "Unit 2 Project" (For instance if your name is Janice, the title should be "Janice_Unit 2 Project")
 
 ## Project Task List
-Brainstorming
+Brainstorming done
 class for paragraph text and for sections headers
-vw units for text 
-WireFrame 2
+vw units for text not needed
+WireFrame 2 done
 Research
+feedback:
+change font
+more colors
+adjust border radii
+add navbar
+
 ### Project Plan
 - Clone or Fork the Starter Code.
 - Complete the “Brainstorming” section.
